@@ -1,0 +1,23 @@
+{
+  "name": "evaluacion_tecnica_cypress",
+  "version": "1.0.0",
+  "description": "Evaluación técnica con Cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "keywords": [
+    "qa",
+    "automation",
+    "cypress"
+  ],
+  "author": "Guillermo Díaz",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.13.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GuillermoDiaz1337/entrevistaPracticaCypress" 
+  }
+}
